@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("10 + 50 * 5 %% 5 / 10 - 5 = %d\n", 10 + 50 * 5 % 5 / 10 - 5);
+    return 0;
+}
